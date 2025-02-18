@@ -22,3 +22,5 @@ These are some challenges to sharpen your VSCode Skills:
 - Establish a live coding session with another learner
 - Share your settings and themes with another learner
 - Create and resolve a merge conflict (Advanced)
+
+### Mike's Edits

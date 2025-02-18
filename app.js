@@ -16,7 +16,7 @@ function replaceWebsiteText(oldText, newText) {
 
 // Initialize Website
 console.log("Initializing website...");
-updateWebsiteTitle("Welcome to My Website");
+updateWebsiteTitle("Welcome to Mike'sy Website");
 showWebsiteMessage("This website is simple and easy to use!");
 
 // Example Usage of Search & Replace

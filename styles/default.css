@@ -2,16 +2,16 @@
 
 /* Reset some default browser styles */
 * {
-    margin: 0;
-    padding: 0;
+    margin: 100;
+    padding: 100;
     box-sizing: border-box;
 }
 
 /* Set default font and background color */
 body {
     font-family: 'Calibri', sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #69676965;
+    color: #1d0331;
     line-height: 1.6;
 }
 
